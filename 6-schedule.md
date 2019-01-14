@@ -23,7 +23,7 @@ The readings listed under each week should be completed by the Monday class meet
 - [Homer, Iliad 22.405-515](https://www.poetryintranslation.com/PITBR/Greek/Iliad22.php#anchor_Toc239246425) (Hector dies, the Trojans lament).
 - [Sappho 1, 16, 31](https://www.uh.edu/~cldue/texts/sappho.html).
 
-* **W 1/30**: Class visit from Ms. Jennifer Whelan, MLIS, on strategies for reading the different types of material with which we'll be dealing in this course.
+> **W 1/30**: Class visit from Ms. Jennifer Whelan, MLIS, on strategies for reading the different types of material with which we'll be dealing in this course.
 
 <p class="list">Optional:</p>
 - \* Listen to the [In Our Time podcast on Sappho](https://www.bbc.co.uk/sounds/play/b05pqsk4).

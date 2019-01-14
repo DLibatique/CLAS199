@@ -21,7 +21,7 @@ I will provide a small set of poems regarding gender or sexuality written by anc
 
 ### <a name="art">Creative Project 2: Artistic Rendering.</a>
 
-**Illustrate a scene or object from any of the works we read this semester**, and **write a 5-6 sentence paragraph describing it**, as if it were on display in a museum and the paragraph is its blurb on the wall next to it. Any medium (electronic or physical: paint, pencil, sculpture, etc.) is acceptable. Some suggestions include ____________. I will be looking to see how (and how creatively) you render details of the text into a visual form, rather than evaluating how good of an artist you are. A grade of satisfactory will be granted if it’s clear what scene and what details from that textual account you decided to depict in your artistic rendering.
+**Illustrate a scene or object from any of the works we read this semester**, and **write a 5-6 sentence paragraph describing it**, as if it were on display in a museum and the paragraph is its blurb on the wall next to it. Any medium (electronic or physical: paint, pencil, sculpture, etc.) is acceptable. Some suggestions include Achilles' lament over Patroclus in Homer's *Iliad* or the exposure of Lysidamus' foolishness after the 'wedding' in Plautus' *Casina*. I will be looking to see how (and how creatively) you render details of the text into a visual form, rather than evaluating how good of an artist you are. A grade of satisfactory will be granted if it’s clear what scene and what details from that textual account you decided to depict in your artistic rendering.
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
@@ -53,8 +53,8 @@ This creative project challenges you to **choose an object in the Greek or Roman
 
 The criteria for a grade of satisfactory are as follows:
 1. Visit the WAM, and locate one of the following objects:
-    - in the Greek room (up the stairs from the Worcester Hunt mosaic)
-    - in the Roman room (in the back left room from the Worcester Hunt)
+    - in the Greek room (up the stairs from the Worcester Hunt mosaic): TBD
+    - in the Roman room (in the back left room from the Worcester Hunt): TBD
 2. Take a selfie with your located object.
 3. Answer the following questions:
     1. What is your object?
