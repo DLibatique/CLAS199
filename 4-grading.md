@@ -99,9 +99,9 @@ There is no particular due date for any given response; if you feel so inclined,
 
 Your response should be written in one of three formats: **3-2-1**, **argument analysis**, or **personal reflection**. All three formats should be **1-2pp. double-spaced**. If you go beyond 2 pp., that’s fine too; 1-2pp. is just a general guideline. **The response will be graded “satisfactory” if it answers each prompt or question under the appropriate heading below.**
 
-All responses on textual articles or chapters should be submitted via the [upload portal](/2-resources#up) with the filename convention: **[LAST NAME] - RESPONSE - [AUTHOR LAST NAME] [DATE]**. For example: **Libatique - Response - Herz 2015.pdf**.
+All responses on textual articles or chapters should be submitted via the [upload portal]({{ site.baseurl }}2-resources#up) with the filename convention: **[LAST NAME] - RESPONSE - [AUTHOR LAST NAME] [DATE]**. For example: **Libatique - Response - Herz 2015.pdf**.
 
-All responses on podcasts should be submitted via the [upload portal](/2-resources#up) with the filename convention: **[LAST NAME] - RESPONSE - PODCAST - [PODCAST DESCRIPTION]**. For example: **Libatique - Response - Podcast - History of Ancient Greece on Marriage and Domesticity.pdf**.
+All responses on podcasts should be submitted via the [upload portal]({{ site.baseurl }}2-resources#up) with the filename convention: **[LAST NAME] - RESPONSE - PODCAST - [PODCAST DESCRIPTION]**. For example: **Libatique - Response - Podcast - History of Ancient Greece on Marriage and Domesticity.pdf**.
 
 <span class="underline"><strong>3-2-1</strong></span>  
 Write down **three (3)** things that you learned.  
@@ -150,7 +150,7 @@ You will be required to draw on at least two primary sources and two secondary s
 
 I will designate a number of possible projects for you to complete that will draw on your creativity. The tasks range from writing poetry to creating artwork, recording a podcast to recording a video, analyzing an object to looking for ancient gender and sexuality in modern media like movies or music. If you would like to complete a creative project that isn’t listed in the possibilities [here](/5-creative/), you are more than welcome to pitch your idea for a creative project to me via e-mail or in office hours.
 
-All text-based creative projects should be submitted via the [upload portal](/2-resources#up) on the course website with the filename convention: [LAST NAME] - CREATIVE PROJECT - [TYPE OF PROJECT]. For example,
+All text-based creative projects should be submitted via the [upload portal](2-resources#up) on the course website with the filename convention: [LAST NAME] - CREATIVE PROJECT - [TYPE OF PROJECT]. For example,
 
 **Libatique - Creative Project - Poem.pdf**  
 **Libatique - Creative Project - Sappho.pdf**  
