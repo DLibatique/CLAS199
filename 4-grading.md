@@ -93,7 +93,7 @@ The semester grading contract takes into account only **unexcused** absences, th
 <hr>
 # <a name="responses">Response Guidelines</a>
 
-This requirement asks you to respond to secondary articles or chapters that treat ancient gender and sexuality. Articles or chapters to which you can respond are designated with an asterisk in the course schedule and in the course general bibliography. You are encouraged to write responses to articles or chapters that deal with a topic in which you are interested. So, you may choose to write four responses to the four articles and podcasts listed in Week 3, or you may opt to write no responses for that week and focus instead on general interest articles — it’s up to you!
+This requirement asks you to respond to secondary articles, chapters, or podcasts that treat ancient gender and sexuality. Articles or chapters to which you can respond are designated with an asterisk in the course schedule and in the course general bibliography. You are encouraged to write responses to articles, chapters, or podcasts that deal with a topic in which you are interested. So, you may choose to write four responses to the four articles and podcasts listed in Week 3, or you may opt to write no responses for that week and focus instead on general interest articles — it’s up to you!
 
 There is no particular due date for any given response; if you feel so inclined, you may, for example, read 14 articles and write 14 responses in the first week of the course and then not have to write any for the remainder. Do keep in mind, though, that the opposite is not true: all responses must be received by **6pm on May 6** (the final day of class), and you may submit **no more than six (6) responses in the space between April 30 and May 6**. So, it behooves you to keep up a regular response submission pattern — if you aim for one response per week, you’ll get to 12-13 responses, with only 1 or 2 more needed for A credit.
 
@@ -101,7 +101,7 @@ Your response should be written in one of three formats: **3-2-1**, **argument a
 
 All responses on textual articles or chapters should be submitted via the [upload portal]({{ site.baseurl }}2-resources#up) with the filename convention: **[LAST NAME] - RESPONSE - [AUTHOR LAST NAME] [DATE]**. For example: **Libatique - Response - Herz 2015.pdf**.
 
-All responses on podcasts should be submitted via the [upload portal]({{ site.baseurl }}2-resources#up) with the filename convention: **[LAST NAME] - RESPONSE - PODCAST - [PODCAST DESCRIPTION]**. For example: **Libatique - Response - Podcast - History of Ancient Greece on Marriage and Domesticity.pdf**.
+All responses on podcasts should be submitted via the [upload portal]({{ site.baseurl }}2-resources#up) with the filename convention: **[LAST NAME] - RESPONSE - PODCAST - [WEEK OF ASSIGNMENT]**. For example: **Libatique - Response - Podcast - Week 4.pdf**.
 
 <span class="underline"><strong>3-2-1</strong></span>  
 Write down **three (3)** things that you learned.  
