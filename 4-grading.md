@@ -146,11 +146,11 @@ You will be required to draw on at least two primary sources and two secondary s
 <hr>
 # <a name="cp">Creative Projects: General Guidelines</a>
 
-[Creative Project Prompts](/5-creative/)
+[Creative Project Prompts]({{ site.baseurl }}5-creative/)
 
-I will designate a number of possible projects for you to complete that will draw on your creativity. The tasks range from writing poetry to creating artwork, recording a podcast to recording a video, analyzing an object to looking for ancient gender and sexuality in modern media like movies or music. If you would like to complete a creative project that isn’t listed in the possibilities [here](/5-creative/), you are more than welcome to pitch your idea for a creative project to me via e-mail or in office hours.
+I will designate a number of possible projects for you to complete that will draw on your creativity. The tasks range from writing poetry to creating artwork, recording a podcast to recording a video, analyzing an object to looking for ancient gender and sexuality in modern media like movies or music. If you would like to complete a creative project that isn’t listed in the possibilities [here]({{ site.baseurl }}5-creative/), you are more than welcome to pitch your idea for a creative project to me via e-mail or in office hours.
 
-All text-based creative projects should be submitted via the [upload portal](2-resources#up) on the course website with the filename convention: [LAST NAME] - CREATIVE PROJECT - [TYPE OF PROJECT]. For example,
+All text-based creative projects should be submitted via the [upload portal]({{ site.baseurl }}2-resources#up) on the course website with the filename convention: [LAST NAME] - CREATIVE PROJECT - [TYPE OF PROJECT]. For example,
 
 **Libatique - Creative Project - Poem.pdf**  
 **Libatique - Creative Project - Sappho.pdf**  
