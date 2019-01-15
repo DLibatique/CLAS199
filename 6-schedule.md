@@ -101,13 +101,21 @@ TBD
 ## Week 8 (M 3/18, W 3/20) - Rome and Roman Sex
 
 <p class="list">Assignments:</p>
+- Ormand 128-145.
+- \* Walters, Jonathan. 1997. "[Invading the Roman Body: Manliness and Impenetrability in Roman Thought.](https://drive.google.com/file/d/16TtKhHiHvdQ4uxnM_BwXvRvsAUg7Ijij/view?usp=sharing)" In *Roman Sexualities*, edited by Judith P. Hallett and Marilyn B. Skinner, 29-43. Princeton.
+- \* Kamen, Deborah and Sarah Levin-Richardson. 2015. "[Lusty Ladies in the Roman Imaginary.](https://drive.google.com/file/d/1qLATItvQckgW7Fh7NY9DXTOPmkW0nX_y/view?usp=sharing)"
+- \* Oktaba, Nikolas. 2017. "[Dick Picks, Ancient and Modern.](https://eidolon.pub/dick-pics-ancient-and-modern-ed544e35b02d)" *Eidolon*.
 
 <p class="list">Optional:</p>
+- \* Williams, Craig. 1999. "[Introduction.](https://drive.google.com/file/d/1b_TBVqU75mG4cPv-26vBrlLs39-rf_-f/view?usp=sharing)" In *Roman Homosexuality: Ideologies of Masculinity in Classical Antiquity*, 3-14. New York and Oxford.
 
 
 ## Week 9 (M 3/25, W 3/27) - Roman Comic Sex
 
 <p class="list">Assignments:</p>
+- Ormand 146-163.
+- \* James, Sharon. 2016. "[Ancient Comedy, Women's Lives: Finding Social History and Seeing the Present in Classical Comedy.](https://humanitiesfutures.org/papers/ancient-comedy-womens-lives-finding-social-history-seeing-present-classical-comedy/)" Humanities Futures: Franklin Humanities Institute, Duke University.
+-
 
 <p class="list">Optional:</p>
 
@@ -115,6 +123,10 @@ TBD
 ## Week 10 (M 4/1, W 4/3 [CAMWS]) - Legal and Illegal Sex in Ancient Rome
 
 <p class="list">Assignments:</p>
+- Ormand 164-182.
+- \* Listen to the [History of Ancient Greece podcast on Roman sexuality](http://www.thehistoryofancientgreece.com/2018/03/special-guest-episode-on-roman.html).
+- \* Parker, Holt. 1997. "[The Teratogenic Grid.](https://drive.google.com/file/d/16S95Dgc6N-XZ4g6bNUwh7g8gRqtWoo_N/view?usp=sharing)" In *Roman Sexualities*, edited by Judith P. Hallett and Marilyn B. Skinner, 47-65.
+- \* Scullin, Sarah. 2016. "[Making a Monster.](https://eidolon.pub/making-a-monster-3cd90135ef3f)" *Eidolon*. **CW**: pedophilia.
 
 <p class="list">Optional:</p>
 
@@ -122,6 +134,8 @@ TBD
 ## Week 11 (M 4/8, W 4/10) - Roman Poetry about Love and Sex
 
 <p class="list">Assignments:</p>
+- Ormand _____
+- \* Zuckerberg, Donna. 2015. "[Bang Rome: Ovid and the Original Sin of Pickup Artistry.](https://eidolon.pub/bang-rome-2214f4a3d5c5)” *Eidolon*.
 
 <p class="list">Optional:</p>
 
@@ -136,8 +150,14 @@ TBD
 ## Week 13 (M 4/29, W 5/1) - Sex in Satire and Invective Poetry
 
 <p class="list">Assignments:</p>
+- Ormand ______
+- \* Rosen, Ralph M. and Catherine C. Keane. 2013. "[Greco-Roman Satirical Poetry.](https://drive.google.com/file/d/18BTl0m7oKRLsEsrX7TyHZYtaaIqxJaPC/view?usp=sharing)" In *A Companion to Greek and Roman Sexualities*, edited by Thomas K. Hubbard, 388-404. Hoboken.
 
 <p class="list">Optional:</p>
 
 
 ## Week 14 (M 5/6) - Conclusion
+
+<p class="list">Assignments:</p>
+- Ormand ______
+- \* LaBuff, Jeremy. 2019. "[A Bigger, Sexier Ancient World: Why We Should Care That Other Ancients Screwed.](https://eidolon.pub/a-bigger-sexier-ancient-world-ee4aefbe69cf)" *Eidolon*.
