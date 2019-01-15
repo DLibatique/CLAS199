@@ -117,6 +117,8 @@ TBD
 - \* James, Sharon. 2016. "[Ancient Comedy, Women's Lives: Finding Social History and Seeing the Present in Classical Comedy.](https://humanitiesfutures.org/papers/ancient-comedy-womens-lives-finding-social-history-seeing-present-classical-comedy/)" Humanities Futures: Franklin Humanities Institute, Duke University.
 - \* Dutsch, Dorota. 2015. "[Feats of Flesh: The Female Body on the Plautine Stage.](https://drive.google.com/file/d/18DHT29Fjt9w3nJ2V3_NBZ5NeTIxxpGBe/view?usp=sharing)" In *Women in Republican Roman Drama*, edited by Dorota Dutsch, Sharon L. James, and David Konstan, 17-36. Madison (Wisc.).
 
+Quiz #4 on W 3/27.
+
 <p class="list">Optional:</p>
 - \* [Plautus' *Casina*](https://drive.google.com/file/d/1llLRZDCfjAZDu8k3NKYE_Cz5cRi8wA8M/view?usp=sharing) (Christenson, David, tr. 2008. *Plautus: Four Plays.* Newburyport (MA).)
 
@@ -142,8 +144,9 @@ TBD
 - \* Lee, Tori. 2017. "[To Me, You Are Creepy: Excluded Lovers from Rome to Rom-Com.](https://eidolon.pub/to-me-you-are-creepy-3646cbadc8a3)" *Eidolon*.
 - \* Listen to the [Reading Latin Poetry podcast on Catullus 16](http://www.readinglatinpoetry.com/podcast/2015/6/12/episode-17-sexual-and-literary-violence-catullus-16).
 
-<p class="list">Optional:</p>
+Quiz #5 on W 4/10.
 
+<p class="list">Optional:</p>
 
 
 ## Week 12 (M 4/15, W 4/17) - Ovid: Proto-Feminist or Extreme Misogynist?
@@ -163,8 +166,11 @@ TBD
 ## Week 13 (M 4/29, W 5/1) - Sex in Satire and Invective Poetry
 
 <p class="list">Assignments:</p>
-- Ormand ______
+- Ormand 237-261.
 - \* Rosen, Ralph M. and Catherine C. Keane. 2013. "[Greco-Roman Satirical Poetry.](https://drive.google.com/file/d/18BTl0m7oKRLsEsrX7TyHZYtaaIqxJaPC/view?usp=sharing)" In *A Companion to Greek and Roman Sexualities*, edited by Thomas K. Hubbard, 388-404. Hoboken.
+- \* Nappa, Christopher. 2018. "__________" In *Making Men Ridiculous: Juvenal and the Anxieties of the Individual*, ______. Ann Arbor.
+
+Quiz #6 on W 5/1.
 
 <p class="list">Optional:</p>
 
@@ -172,5 +178,5 @@ TBD
 ## Week 14 (M 5/6) - Conclusion
 
 <p class="list">Assignments:</p>
-- Ormand ______
+- Ormand 262-268.
 - \* LaBuff, Jeremy. 2019. "[A Bigger, Sexier Ancient World: Why We Should Care That Other Ancients Screwed.](https://eidolon.pub/a-bigger-sexier-ancient-world-ee4aefbe69cf)" *Eidolon*.
