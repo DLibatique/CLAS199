@@ -104,7 +104,7 @@ TBD
 - Ormand 128-145.
 - \* Walters, Jonathan. 1997. "[Invading the Roman Body: Manliness and Impenetrability in Roman Thought.](https://drive.google.com/file/d/16TtKhHiHvdQ4uxnM_BwXvRvsAUg7Ijij/view?usp=sharing)" In *Roman Sexualities*, edited by Judith P. Hallett and Marilyn B. Skinner, 29-43. Princeton.
 - \* Kamen, Deborah and Sarah Levin-Richardson. 2015. "[Lusty Ladies in the Roman Imaginary.](https://drive.google.com/file/d/1qLATItvQckgW7Fh7NY9DXTOPmkW0nX_y/view?usp=sharing)"
-- \* Oktaba, Nikolas. 2017. "[Dick Picks, Ancient and Modern.](https://eidolon.pub/dick-pics-ancient-and-modern-ed544e35b02d)" *Eidolon*.
+- \* Oktaba, Nikolas. 2017. "[Dick Pics, Ancient and Modern.](https://eidolon.pub/dick-pics-ancient-and-modern-ed544e35b02d)" *Eidolon*.
 
 <p class="list">Optional:</p>
 - \* Williams, Craig. 1999. "[Introduction.](https://drive.google.com/file/d/1b_TBVqU75mG4cPv-26vBrlLs39-rf_-f/view?usp=sharing)" In *Roman Homosexuality: Ideologies of Masculinity in Classical Antiquity*, 3-14. New York and Oxford.
@@ -115,7 +115,7 @@ TBD
 <p class="list">Assignments:</p>
 - Ormand 146-163.
 - \* James, Sharon. 2016. "[Ancient Comedy, Women's Lives: Finding Social History and Seeing the Present in Classical Comedy.](https://humanitiesfutures.org/papers/ancient-comedy-womens-lives-finding-social-history-seeing-present-classical-comedy/)" Humanities Futures: Franklin Humanities Institute, Duke University.
--
+- \* Dutsch, Dorota. 2015. "[Feats of Flesh: The Female Body on the Plautine Stage.](https://drive.google.com/file/d/18DHT29Fjt9w3nJ2V3_NBZ5NeTIxxpGBe/view?usp=sharing)" In *Women in Republican Roman Drama*, edited by Dorota Dutsch, Sharon L. James, and David Konstan, 17-36. Madison (Wisc.).
 
 <p class="list">Optional:</p>
 
@@ -124,6 +124,7 @@ TBD
 
 <p class="list">Assignments:</p>
 - Ormand 164-182.
+- \* Kenty, Joanna. 2017. “[Avenging Lucretia: From Rape to Revolution.](https://eidolon.pub/avenging-lucretia-dd14e936840c)” *Eidolon*.
 - \* Listen to the [History of Ancient Greece podcast on Roman sexuality](http://www.thehistoryofancientgreece.com/2018/03/special-guest-episode-on-roman.html).
 - \* Parker, Holt. 1997. "[The Teratogenic Grid.](https://drive.google.com/file/d/16S95Dgc6N-XZ4g6bNUwh7g8gRqtWoo_N/view?usp=sharing)" In *Roman Sexualities*, edited by Judith P. Hallett and Marilyn B. Skinner, 47-65.
 - \* Scullin, Sarah. 2016. "[Making a Monster.](https://eidolon.pub/making-a-monster-3cd90135ef3f)" *Eidolon*. **CW**: pedophilia.
