@@ -86,6 +86,8 @@ Quiz #2 on 2/20.
 <p class="list">Optional:</p>
 - \* Davidson, James. 2007. "[Noonday Phaedrus. Cephalus at Dawn.](https://drive.google.com/file/d/177ZzqfVR5eqM4G1b9eVSjRZSrbPw2bvH/view?usp=sharing)" In *The Greeks & Greek Love: A Radical Reappraisal of Homosexuality in Ancient Greece*, 201-220. London.
 
+<hr>
+
 ## Week 7 (M 3/11, W 3/13) - Love and Sex in Hellenistic Poetry
 
 <p class="list">Assignments:</p>
@@ -98,6 +100,8 @@ Quiz #3 on W 3/13.
 <p class="list">Optional:</p>
 TBD
 
+<hr>
+
 ## Week 8 (M 3/18, W 3/20) - Rome and Roman Sex
 
 <p class="list">Assignments:</p>
@@ -109,6 +113,7 @@ TBD
 <p class="list">Optional:</p>
 - \* Williams, Craig. 1999. "[Introduction.](https://drive.google.com/file/d/1b_TBVqU75mG4cPv-26vBrlLs39-rf_-f/view?usp=sharing)" In *Roman Homosexuality: Ideologies of Masculinity in Classical Antiquity*, 3-14. New York and Oxford.
 
+<hr>
 
 ## Week 9 (M 3/25, W 3/27) - Roman Comic Sex
 
@@ -122,6 +127,7 @@ Quiz #4 on W 3/27.
 <p class="list">Optional:</p>
 - \* [Plautus' *Casina*](https://drive.google.com/file/d/1llLRZDCfjAZDu8k3NKYE_Cz5cRi8wA8M/view?usp=sharing) (Christenson, David, tr. 2008. *Plautus: Four Plays.* Newburyport (MA).)
 
+<hr>
 
 ## Week 10 (M 4/1, W 4/3 [CAMWS]) - Legal and Illegal Sex in Ancient Rome
 
@@ -135,6 +141,7 @@ Quiz #4 on W 3/27.
 <p class="list">Optional:</p>
 - \* Williams, Craig. 1999. "[The Concept of *Stuprum*.](https://drive.google.com/file/d/1xsF15s9r8Ekp2XX8IfXVd0VwLVXIQ1t1/view?usp=sharing)" In *Roman Homosexuality*, 96-124. New York and Oxford.
 
+<hr>
 
 ## Week 11 (M 4/8, W 4/10) - Roman Poetry about Love and Sex: Catullus and the Elegists
 
@@ -148,6 +155,7 @@ Quiz #5 on W 4/10.
 
 <p class="list">Optional:</p>
 
+<hr>
 
 ## Week 12 (M 4/15, W 4/17) - Ovid: Proto-Feminist or Extreme Misogynist?
 
@@ -163,6 +171,8 @@ Quiz #5 on W 4/10.
 - Ormand 209-219
 - \* Barish, Sasha. 2018. "[Iphis’ Hair, Io’s Reflection, and the Gender Dysphoria of the *Metamorphoses*.](https://eidolon.pub/iphis-hair-io-s-reflection-and-the-gender-dysphoria-of-the-metamorphoses-4b75c1ba38d7)" *Eidolon*.
 
+<hr>
+
 ## Week 13 (M 4/29, W 5/1) - Sex in Satire and Invective Poetry
 
 <p class="list">Assignments:</p>
@@ -174,6 +184,7 @@ Quiz #6 on W 5/1.
 
 <p class="list">Optional:</p>
 
+<hr>
 
 ## Week 14 (M 5/6) - Conclusion
 
