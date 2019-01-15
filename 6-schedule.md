@@ -165,7 +165,7 @@ Quiz #5 on W 4/10.
 - [Ovid *Ars Amatoria* 1.1-772](https://drive.google.com/file/d/18aN6K-iw8S3_IUDcjH5Ihb9j_Le21gcf/view?usp=sharing) (Francese, Christopher and R. Scott Smith, eds. 2014. *Ancient Rome: An Anthology of Sources*, 227-248. Indianapolis and Cambridge.)
 - \* Zuckerberg, Donna. 2015. "[Bang Rome: Ovid and the Original Sin of Pickup Artistry.](https://eidolon.pub/bang-rome-2214f4a3d5c5)” *Eidolon*.
 - Ovid *Metamorphoses* 6.424-674 ____________
-- James, Sharon L. 2016. "[Rape and Repetition in Ovid's *Metamorphoses*: Myth, History, Structure, Rome.](https://drive.google.com/file/d/18IT6u4Hg8N3nM0yTMh9uGpHM59nHxBh0/view?usp=sharing)" In *Repeat Performances*, edited by Laurel Fulkerson, 154-175. Madison (Wisc.).
+- \* James, Sharon L. 2016. "[Rape and Repetition in Ovid's *Metamorphoses*: Myth, History, Structure, Rome.](https://drive.google.com/file/d/18IT6u4Hg8N3nM0yTMh9uGpHM59nHxBh0/view?usp=sharing)" In *Repeat Performances*, edited by Laurel Fulkerson, 154-175. Madison (Wisc.).
 
 <p class="list">Optional:</p>
 - Ormand 209-219
