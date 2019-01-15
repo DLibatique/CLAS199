@@ -14,7 +14,7 @@ title: Creative Projects
 <hr>
 ### <a name="poem">Creative Project 1: Write a Poem.</a>
 
-I will provide a small set of poems regarding gender or sexuality written by ancient Greek and Latin authors. Your goal in this creative project is to choose one author and **write a poem of 30-40 lines about gender or sexuality in their style, capturing their essence by using similar diction, poetic structure, and themes**. The poem’s meter is of your own choosing (even free verse!). The topic of the poem can be personal, drawn from your own life, or more generalized — you can create your own persona! The challenge of this creative project is that you are not allowed to tell me which author you are patterning your poem on — it should be self-evident from the words of your poem. Submit the poem with an original title (that doesn’t tell me which author or poem you are patterning your poem on) according to the submission guidelines above. A grade of satisfactory will be granted if I am able to tell from which poet/poem you drew your inspiration; poetic ability will not necessarily be a factor in the decision, unless it is clear that no effort was put into your poem.
+I will provide a small set of poems regarding gender or sexuality written by ancient Greek and Latin authors. Your goal in this creative project is to choose one author and **write a poem of 30-40 lines about gender or sexuality in their style, capturing their essence by using similar diction, poetic structure, and themes**. The poem’s meter is of your own choosing (even free verse!). The topic of the poem can be personal, drawn from your own life, or more generalized — you can create your own persona! The challenge of this creative project is that you are not allowed to tell me which author you are patterning your poem on — it should be self-evident from the words of your poem. Submit the poem with an original title (that doesn’t tell me which author or poem you are patterning your poem on) according to the submission guidelines [here]({{ site.baseurl }}4-grading#cp). A grade of satisfactory will be granted if I am able to tell from which poet/poem you drew your inspiration; poetic ability will not necessarily be a factor in the decision, unless it is clear that no effort was put into your poem.
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
@@ -28,7 +28,7 @@ I will provide a small set of poems regarding gender or sexuality written by anc
 
 ### <a name="eidolon">Creative Project 3: *Eidolon* Pitch.</a>
 
-You’ll notice that the articles that I chose for your response essays are mostly drawn from the online Classics publication [*Eidolon*](https://eidolon.pub), whose mission is to publish articles by any level of Classics student or teacher (from high school to graduate-level) that explore topics in Classics in various ways: personal and emotional responses to ancient literature and art; the relationship of modern art, music, and literature to ancient Greek and Roman precedents; and so on.
+You’ll notice that many of the articles that I chose for your response essays are mostly drawn from the online Classics publication [*Eidolon*](https://eidolon.pub), whose mission is to publish articles by any level of Classics student or teacher (from high school to graduate-level) that explore topics in Classics in various ways: personal and emotional responses to ancient literature and art; the relationship of modern art, music, and literature to ancient Greek and Roman precedents; and so on.
 
 The goal of this creative project is to **draft a pitch for an *Eidolon* article that deals with one of the themes of ancient gender and sexuality that we’re investigating this semester**. The topic can be as broad or as specific as you’d like.
 
@@ -109,7 +109,7 @@ The criteria for a grade of satisfactory are as follows:
 5. You should include in the source list from #4 a bibliography of textual sources that you consulted, even if you use only Ormand.
 6. The length of the video must be between 4 to 6 minutes.
 7. The format of the video should be electronic (for example, in .mov or .wmv format).
-8. The podcast should be uploaded to an external site, like Youtube, and accessible via a public link.
+8. The video should be uploaded to an external site, like Youtube, and accessible via a public link.
 9. Submit the public link to me via e-mail.
 
 Resources and Tips:
