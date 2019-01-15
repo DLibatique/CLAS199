@@ -80,7 +80,7 @@ Quiz #2 on 2/20.
 <p class="list">Assignments:</p>
 - Ormand 91-106.
 - \* Listen to the [Ancient Greece Declassified podcast on Platonic Love](http://greecepodcast.com/episode17.html).
-- \* [Aristophanes' Speech in Plato's *Symposium*](https://drive.google.com/file/d/17qW8y5YK1t5sttuMvgPPgBYdK6K48lMJ/view?usp=sharing) -- Benardete, Seth (trans.). 2001. *Plato's* Symposium, 18-22. Chicago.
+- \* [Aristophanes' Speech in Plato's *Symposium* (between the red brackets)](https://drive.google.com/file/d/17qW8y5YK1t5sttuMvgPPgBYdK6K48lMJ/view?usp=sharing) -- Benardete, Seth (trans.). 2001. *Plato's* Symposium, 18-22. Chicago.
 - \* Watch ["The Origin of Love"](https://www.youtube.com/watch?v=_zU3U7E1Odc) from *Hedwig and the Angry Inch* (2001).
 
 <p class="list">Optional:</p>
