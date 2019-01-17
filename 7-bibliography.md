@@ -13,6 +13,7 @@ Any piece that may be used for a [response]({{ site.baseurl }}4-grading#response
 - Dover, K.J. 2016. *Greek Homosexuality*. Forewords by Stephen Halliwell, Mark Masterson, and James Robson. London and Oxford.
 - Foley, Helene. 2014. “Performing Gender in Greek Old and New Comedy.” In The Cambridge Companion to Greek Comedy, edited by Martin Revermann, 259-274. Cambridge.
 - Garison, Cassie. 2018. “[Exploring Gender and Sexuality in Antiquity: The Trial and Consciousness of Callon.](https://sententiaeantiquae.com/2018/10/23/exploring-gender-and-sexuality-in-antiquity-the-trial-and-sight-of-callon/)” *Sententiae Antiquae*.
+- Halperin, David. 1989. *One Hundred Years of Homosexuality: and Other Essays on Greek Love.* London.
 - Halperin, David M., John J. Winkler, and Froma I. Zeitlin, eds. 1990. *Before Sexuality: The Construction of Erotic Experience in the Ancient Greek World.* Princeton.
 - Haselswerdt, Ella. 2016. “[Re-Queering Sappho.](https://eidolon.pub/re-queering-sappho-c6c05b6b9f0b)” *Eidolon*.
 - Henderson, Jeffrey. 1991². *The Maculate Muse: Obscene Language in Attic Comedy*. Oxford.

@@ -178,6 +178,7 @@ Quiz #5 on W 4/10.
 
 <p class="list">Assignments:</p>
 - Ormand 237-261.
+- [Juvenal *Satires* 2](https://www.poetryintranslation.com/PITBR/Latin/JuvenalSatires2.php).
 - \* Rosen, Ralph M. and Catherine C. Keane. 2013. "[Greco-Roman Satirical Poetry.](https://drive.google.com/file/d/18BTl0m7oKRLsEsrX7TyHZYtaaIqxJaPC/view?usp=sharing)" In *A Companion to Greek and Roman Sexualities*, edited by Thomas K. Hubbard, 388-404. Hoboken.
 - \* Nappa, Christopher. 2018. "__________" In *Making Men Ridiculous: Juvenal and the Anxieties of the Individual*, ______. Ann Arbor.
 
