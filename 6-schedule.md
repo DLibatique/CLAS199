@@ -82,6 +82,7 @@ Quiz #2 on 2/20.
 - \* Listen to the [Ancient Greece Declassified podcast on Platonic Love](http://greecepodcast.com/episode17.html).
 - \* [Aristophanes' Speech in Plato's *Symposium* (between the red brackets)](https://drive.google.com/file/d/17qW8y5YK1t5sttuMvgPPgBYdK6K48lMJ/view?usp=sharing) -- Benardete, Seth (trans.). 2001. *Plato's* Symposium, 18-22. Chicago.
 - \* Watch ["The Origin of Love"](https://www.youtube.com/watch?v=_zU3U7E1Odc) from *Hedwig and the Angry Inch* (2001).
+- \* Dutsch, Dorota. 2014. "Dog-love-dog: *Kynogamia* and Cynic Sexual Ethics." In *Sex in Antiquity: Exploring Gender and Sexuality in the Ancient World**, edited by Mark Masterson, Nancy Sorkin Rabinowitz, and James Robson, _______. London.
 
 <p class="list">Optional:</p>
 - \* Davidson, James. 2007. "[Noonday Phaedrus. Cephalus at Dawn.](https://drive.google.com/file/d/177ZzqfVR5eqM4G1b9eVSjRZSrbPw2bvH/view?usp=sharing)" In *The Greeks & Greek Love: A Radical Reappraisal of Homosexuality in Ancient Greece*, 201-220. London.
@@ -107,7 +108,7 @@ TBD
 <p class="list">Assignments:</p>
 - Ormand 128-145.
 - \* Walters, Jonathan. 1997. "[Invading the Roman Body: Manliness and Impenetrability in Roman Thought.](https://drive.google.com/file/d/16TtKhHiHvdQ4uxnM_BwXvRvsAUg7Ijij/view?usp=sharing)" In *Roman Sexualities*, edited by Judith P. Hallett and Marilyn B. Skinner, 29-43. Princeton.
-- \* Kamen, Deborah and Sarah Levin-Richardson. 2015. "[Lusty Ladies in the Roman Imaginary.](https://drive.google.com/file/d/1qLATItvQckgW7Fh7NY9DXTOPmkW0nX_y/view?usp=sharing)"
+- \* Kamen, Deborah and Sarah Levin-Richardson. 2015. "[Lusty Ladies in the Roman Imaginary.](https://drive.google.com/file/d/1qLATItvQckgW7Fh7NY9DXTOPmkW0nX_y/view?usp=sharing)" In *Ancient Sex*, edited by Ruby Blondell and Kirk Ormand, 231-252. Columbus.
 - \* Oktaba, Nikolas. 2017. "[Dick Pics, Ancient and Modern.](https://eidolon.pub/dick-pics-ancient-and-modern-ed544e35b02d)" *Eidolon*.
 
 <p class="list">Optional:</p>
