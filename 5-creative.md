@@ -51,10 +51,17 @@ The criteria for a grade of satisfactory are as follows:
 
 This creative project challenges you to **choose an object in the Greek or Roman rooms at the Worcester Art Museum and relate it to the themes of ancient gender and sexuality that we are discussing in the course**. You get free admission to the WAM with your Holy Cross ID. If you would like to complete an object analysis for an ancient Greek or Roman artifact from another museum (e.g., the Museum of Fine Art in Boston or the Metropolitan Museum of Art in New York), that works too! Simply let me know that you’d like to visit one of those institutions, and I can help you locate an appropriate object.
 
+See my tweet thread about this project below!
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Trips to <a href="https://twitter.com/WorcesterArt?ref_src=twsrc%5Etfw">@WorcesterArt</a> are becoming a semesterly tradition and I&#39;m not mad about it! Did some object searching for <a href="https://twitter.com/hashtag/CLAS199?src=hash&amp;ref_src=twsrc%5Etfw">#CLAS199</a>&#39;s selfie &amp; object analysis creative project prompt &amp; found some great ones! (Project description, selfies, and titles in thread) 1/7 <a href="https://twitter.com/hashtag/Classics?src=hash&amp;ref_src=twsrc%5Etfw">#Classics</a> <a href="https://twitter.com/hashtag/TeachAncient?src=hash&amp;ref_src=twsrc%5Etfw">#TeachAncient</a></p>&mdash; Dr. Daniel Libatique (@DLibatique10) <a href="https://twitter.com/DLibatique10/status/1085583271138938881?ref_src=twsrc%5Etfw">January 16, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 The criteria for a grade of satisfactory are as follows:
 1. Visit the WAM, and locate one of the following objects:
-    - in the Greek room (up the stairs from the Worcester Hunt mosaic): TBD
-    - in the Roman room (in the back left room from the Worcester Hunt): TBD
+    - **Venus** (in the Roman room -- enter on Salisbury St., come to face the Worcester Hunt mosaic, room is in the back left)
+    - **Portrait of a Roman Matron** (also in the Roman room)
+    - **Funerary Monument of a Greek Warrior** (directly left of the Worcester Hunt mosaic when facing away from the Salisbury St. entrance/exit)
+    - **Red-Figure Stamnos** (center of the three objects in the Jeppson Idea Lab, 3rd floor)
 2. Take a selfie with your located object.
 3. Answer the following questions:
     1. What is your object?
@@ -62,9 +69,10 @@ The criteria for a grade of satisfactory are as follows:
     3. What material is it made out of?
     4. Where was it originally displayed?
     5. Which themes of ancient gender and sexuality does the object tie into? How?
-4. The answers may be formatted either in paragraph/essay form or in bullet points — whatever format enables you to make your points most clearly yet concisely.
-5. There is no page minimum or maximum, though a general guidelines of about 2-3pp. double spaced is good to aim for.
-6. Submit the selfie and the essay to me via e-mail.
+4. You can use the blurb next to / under each object (or on the iPads in the Jeppson Idea Lab) to help you answer the first few questions. If you can't find an answer, feel free to say so.
+5. The answers may be formatted either in paragraph/essay form or in bullet points — whatever format enables you to make your points most clearly yet concisely.
+6. There is no page minimum or maximum, though a general guidelines of about 2-3pp. double spaced is good to aim for.
+7. Submit the selfie and the essay to me via e-mail.
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
