@@ -56,12 +56,14 @@ Any piece that may be used for a [response]({{ site.baseurl }}4-grading#response
 - Ingleheart, Jennifer. 2018. *Masculine Plural: Queer Classics, Sex, and Education.* Oxford.
 - James, Sharon. 2016. "[Ancient Comedy, Women's Lives: Finding Social History and Seeing the Present in Classical Comedy.](https://humanitiesfutures.org/papers/ancient-comedy-womens-lives-finding-social-history-seeing-present-classical-comedy/)"
 - LaBuff, Jeremy. 2019. "[A Bigger, Sexier Ancient World: Why We Should Care That Other Ancients Screwed.](https://eidolon.pub/a-bigger-sexier-ancient-world-ee4aefbe69cf)" *Eidolon*.
+- Larmour, David H.J., Paul Allen Miller, and Charles Platter, eds. 1998. *Rethinking Sexuality: Foucault and Classical Antiquity*. Princeton.
 - Lee, Tori. 2017. "[To Me, You Are Creepy: Excluded Lovers from Rome to Rom-Com.](https://eidolon.pub/to-me-you-are-creepy-3646cbadc8a3)" *Eidolon*.
 - \* Maisel, LKM. 2019. “[Women are Made, but from What? Modern and Ancient Trans Antagonism.](https://eidolon.pub/women-are-made-but-from-what-modern-and-ancient-trans-antagonism-17512e3987ff)” *Eidolon*.
 - Masterson, Mark, Nancy Sorkin Rabinowitz, and James Robson, eds. 2014. *Sex in Antiquity: Exploring Gender and Sexuality in the Ancient World.* London.
 - Oktaba, Nikolas. 2017. "[Dick Pics, Ancient and Modern.](https://eidolon.pub/dick-pics-ancient-and-modern-ed544e35b02d)" *Eidolon*.
 - Ormand, Kirk. 2018. *Controlling Desires: Sexuality in Ancient Greece and Rome, Revised Edition.* Austin.
 - Pomeroy, Sarah. 1995². *Goddesses, Whores, Wives, and Slaves: Women in Classical Antiquity*, 120-148. New York.
+- Rabinowitz, Nancy Sorkin, and Fiona McHardy. 2014. *From Abortion to Pederasty: Addressing Difficult Topics in the Classics Classroom*. Columbus.
 - Richlin, Amy. 1991. “Zeus and Metis: Foucault, Feminism, Classics.” *Helios* 18: 160-180.
 - ------. 1992a. *The Garden of Priapus: Sexuality and Aggression in Roman Humor*. Oxford.
 - ------, ed. 1992b. *Pornography and Representation in Greece and Rome*. Oxford.
