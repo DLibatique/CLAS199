@@ -128,7 +128,7 @@ There will be **six (6)** quizzes administered in class throughout the semester 
 <hr>
 # <a name="finex">Final Exam Guidelines</a>
 
-Towards the end of the semester, you will choose either to write a research essay or take an exam. The final exam will be composed of a combination of multiple-choice questions, fill-in-the-blanks, and one or two essay questions. Material for the multiple-choice questions and fill-in-the-blanks may be drawn from any of the Terms and Concepts sheets distributed each week of class. Material for the essays may be drawn from any topic discussed in class. The exam will take about an hour and a half to complete. The exam will be graded out of a total of 50 points, and **a satisfactory grade will be 35/50 or higher**. If you opt to take the final exam, you must let me know **by Monday 4/9 via e-mail**, and we will use that e-mail correspondence to determine a time and place for the exam.
+Towards the end of the semester, you will choose either to write an argumentative essay or take an exam. The final exam will be composed of a combination of multiple-choice questions, fill-in-the-blanks, and one or two essay questions. Material for the multiple-choice questions and fill-in-the-blanks may be drawn from any of the Terms and Concepts sheets distributed each week of class. Material for the essays may be drawn from any topic discussed in class. The exam will take about an hour and a half to complete. The exam will be graded out of a total of 50 points, and **a satisfactory grade will be 35/50 or higher**. If you opt to take the final exam, you must let me know **by Monday 4/9 via e-mail**, and we will use that e-mail correspondence to determine a time and place for the exam.
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
@@ -158,6 +158,12 @@ etc.
 
 The guidelines for submission of all media-based creative projects is listed under the appropriate heading.
 
-All creative projects must be submitted to me **by 5pm on Thursday, May 9** (the first day of the exam period). There is no due date for any given creative project, but if you do more than one, it behooves you to spread the wealth time-wise, as it were, as some projects may take some time to complete. If you’re going for an A (i.e., completing 4 creative projects), I recommend attempting to complete one every three weeks or so, as we have only about 12-13 full weeks of class.
+All creative projects must be submitted to me **by 5pm on Thursday, May 9** (the first day of the exam period), and you may submit **no more than two (2) creative projects between April 11 and May 9**. There is no due date for any given creative project, but if you do more than one, it behooves you to spread the wealth time-wise, as it were, as some projects may take some time to complete.
+
+If you’re going for an A for the semester (i.e., completing 4 creative projects), I recommend attempting to complete the four projects according to the following timeline:
+- Submit Creative Project #1: 2/25
+- Submit Creative Project #2: 3/20
+- Submit Creative Project #3: 4/15
+- Submit Creative Project #4: 5/9
 
 <a href="#top" class="underline">Back to top.</a>
