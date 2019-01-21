@@ -5,7 +5,7 @@ title: Home
 
 ## Course Information
 **Meeting Time:** MW 3pm to 4:15pm  
-**Meeting Place:** TBD  
+**Meeting Place:** Stein 205  
 **Instructor:** Prof. Daniel Libatique (he/him/his)  
 **Office:** Fenwick 410  
 **Office hours:** T 11am to 1pm, W 11am to 1pm, or by appointment  
