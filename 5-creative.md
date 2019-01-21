@@ -14,14 +14,28 @@ title: Creative Projects
 <hr>
 ### <a name="poem">Creative Project 1: Write a Poem.</a>
 
-I will provide a small set of poems regarding gender or sexuality written by ancient Greek and Latin authors. Your goal in this creative project is to choose one author and **write a poem of 30-40 lines about gender or sexuality in their style, capturing their essence by using similar diction, poetic structure, and themes**. The poem’s meter is of your own choosing (even free verse!). The topic of the poem can be personal, drawn from your own life, or more generalized — you can create your own persona! The challenge of this creative project is that you are not allowed to tell me which author you are patterning your poem on — it should be self-evident from the words of your poem. Submit the poem with an original title (that doesn’t tell me which author or poem you are patterning your poem on) according to the submission guidelines [here]({{ site.baseurl }}4-grading#cp). A grade of satisfactory will be granted if I am able to tell from which poet/poem you drew your inspiration; poetic ability will not necessarily be a factor in the decision, unless it is clear that no effort was put into your poem.
+I will provide a small set of poems regarding gender or sexuality written by ancient Greek and Latin authors. Your goal in this creative project is to choose one author and **write a poem of 30-40 lines about gender or sexuality in their style, capturing their essence by using similar diction, poetic structure, and themes; also, write a short (4-5 sentence) blurb on your process -- how did you go about capturing the author's essence?** The poem’s meter is of your own choosing (even free verse!). The topic of the poem can be personal, drawn from your own life, or more generalized — you can create your own persona!
+
+The criteria for a grade of satisfactory are as follows:
+1. The poem must be 30-40 lines long.
+2. Your blurb describing the process must be 4-5 sentences long.
+3. Your poem must have a title.
+4. Your poem (and the blurb explaining it) must adequately capture your chosen poem's poet's diction and style.
+5. Submit the poem and blurb in one file according to the submission guidelines [here]({{ site.baseurl }}4-grading#cp).
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
 
 ### <a name="art">Creative Project 2: Artistic Rendering.</a>
 
-**Illustrate a scene or object from any of the works we read this semester**, and **write a 5-6 sentence paragraph describing it**, as if it were on display in a museum and the paragraph is its blurb on the wall next to it. Any medium (electronic or physical: paint, pencil, sculpture, etc.) is acceptable. Some suggestions include Achilles' lament over Patroclus in Homer's *Iliad* or the exposure of Lysidamus' foolishness after the 'wedding' in Plautus' *Casina*. I will be looking to see how (and how creatively) you render details of the text into a visual form, rather than evaluating how good of an artist you are. A grade of satisfactory will be granted if it’s clear what scene and what details from that textual account you decided to depict in your artistic rendering.
+**Illustrate a scene or object from any of the works we read this semester**, and **write a 4-5 sentence paragraph describing it**, as if it were on display in a museum and the paragraph is its blurb on the wall next to it. Any medium (electronic or physical: paint, pencil, sculpture, etc.) is acceptable. Some suggestions include Achilles' lament over Patroclus in Homer's *Iliad* or the exposure of Lysidamus' foolishness after the 'wedding' in Plautus' *Casina*. I will be looking to see how (and how creatively) you render details of the text into a visual form, rather than evaluating how good of an artist you are.
+
+The criteria for a grade of satisfactory are as follows:
+1. The illustration must be of a scene assigned in readings for the course in the course schedule or textbook or from another reading approved beforehand by me. Contact me if you'd like to illustrate something that is not on the course schedule.
+2. The illustration must have a title.
+3. The paragraph describing your illustration must be 4-5 sentences long.
+4. It must be clear what scene and what details from your chosen textual account you decided to depict in your artistic rendering.
+5. Submit the illustration and paragraph to me via e-mail, or, in the case of physical media, submit both physically to me either in class or in my office (Fenwick 410).
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
@@ -38,7 +52,8 @@ The criteria for a grade of satisfactory are as follows:
     1. What is the topic that you’d like to write about?
     2. What are at least two examples of primary or secondary sources that you would use in writing about it?
     3. Who is the intended audience for your *Eidolon* piece? The general public? Other college students? People who are knowledgeable about ancient gender and sexuality? People who know nothing about ancient gender and sexuality?
-3. The pitch’s length should be about 2-3 pp. double spaced.  
+3. The pitch’s length should be about 2-3 pp. double spaced.
+4. Submit the pitch according to the submission guidelines [here]({{ site.baseurl }}4-grading#cp).
 
 <p class="list">Resources:</p>
 - Check out *Eidolon*’s [instructions for pitching and their recommendations on what make a good pitch](https://eidolon.pub/how-to-pitch-especially-to-eidolon-7d925eec669).
@@ -69,7 +84,7 @@ The criteria for a grade of satisfactory are as follows:
     3. What material is it made out of?
     4. Where was it originally displayed?
     5. Which themes of ancient gender and sexuality does the object tie into? How?
-4. You can use the blurb next to / under each object (or on the iPads in the Jeppson Idea Lab) to help you answer the first few questions. If you can't find an answer, feel free to say so.
+4. You can use the blurb next to / under each object (or on the iPads in the Jeppson Idea Lab) to help you answer the first few questions. If you can't find an answer, that's fine -- just make sure to say so.
 5. The answers may be formatted either in paragraph/essay form or in bullet points — whatever format enables you to make your points most clearly yet concisely.
 6. There is no page minimum or maximum, though a general guidelines of about 2-3pp. double spaced is good to aim for.
 7. Submit the selfie and the essay to me via e-mail.
@@ -107,7 +122,7 @@ Resources and Tips:
 
 ### <a name="vid">Creative Project 6: Video Lesson.</a>
 
-This creative project prompts you to **choose a topic relating to ancient gender or sexuality to discuss on video**. Like the podcast (<a href="#pod" class="underline">Creative Project 5</a>), the topic may be as specific (e.g., what kind of musical instruments would Sappho perform on?) or broad (e.g., here are some examples of how women are depicted in Greek pottery) as you’d like. Unlike the podcast option, however, the challenge with a video lesson becomes using whatever visual media you can to get your point or your lesson across: pictures, gifs, videos, music, etc.
+This creative project prompts you to **choose a topic relating to ancient gender or sexuality to discuss on video**. Like the podcast (<a href="#pod" class="underline">Creative Project 5</a>), the topic may be as specific (e.g., what kind of musical instruments would Sappho perform on?) or broad (e.g., here are some examples of how women are depicted in Greek pottery) as you’d like. Unlike the podcast option, however, the challenge with a video lesson becomes using whatever **visual** media you can to get your point or your lesson across: pictures, gifs, videos, music, etc.
 
 The criteria for a grade of satisfactory are as follows:
 1. The content of the video must focus on explaining a topic that relates to ancient Greek or Roman gender or sexuality. Imagine an audience that knows nothing about but wants to learn about your chosen topic.
