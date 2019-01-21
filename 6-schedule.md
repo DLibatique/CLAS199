@@ -152,7 +152,7 @@ Quiz #4 on W 3/27.
 - Ormand 183-208.
 - \* Manwell, Elizabeth. 2007. "[Gender and Masculinity.](https://drive.google.com/file/d/18X1Ew89AFFLCfO0yA_NJ7AtUAJWbV5SS/view?usp=sharing)" In *A Companion to Catullus*, edited by Marilyn B. Skinner, 111-128. Malden (MA) and Oxford.
 - \* Lee, Tori. 2017. "[To Me, You Are Creepy: Excluded Lovers from Rome to Rom-Com.](https://eidolon.pub/to-me-you-are-creepy-3646cbadc8a3)" *Eidolon*.
-- \* Kamil, Mariam. 2019. "[L“I Shall — \#\$\% You And \*\@\$\# You”](https://eidolon.pub/i-shall-you-and-you-a3841d4c5e33)" *Eidolon*.
+- \* Kamil, Mariam. 2019. "[L“I Shall — \#\$\% You And \*\@\$\# You”.](https://eidolon.pub/i-shall-you-and-you-a3841d4c5e33)" *Eidolon*.
 
 Quiz #5 on W 4/10.
 
