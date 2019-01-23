@@ -142,6 +142,8 @@ For reasons of space, the guidelines for the final essay will be provided direct
 
 You will be required to draw on at least two primary sources and two secondary sources to write your essay.
 
+The final essay will be due on **Friday, May 10, by 5pm**.
+
 <a href="#top" class="underline">Back to top.</a>
 <hr>
 # <a name="cp">Creative Projects: General Guidelines</a>
