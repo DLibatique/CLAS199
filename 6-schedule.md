@@ -21,7 +21,7 @@ The readings listed under each week should be completed by the Monday class meet
 - \* Zuckerberg, Donna. 2016. “[The Breasts that Launched a Thousand Ships (Helen’s face is up here, thanks).](https://eidolon.pub/the-breasts-that-launched-a-thousand-ships-c56b42aec9da)” *Eidolon*.
 - [Homer, Iliad 18.1-147](https://www.poetryintranslation.com/PITBR/Greek/Iliad18.php#anchor_Toc239246220) (Achilles laments over Patroclus).
 - [Homer, Iliad 22.405-515](https://www.poetryintranslation.com/PITBR/Greek/Iliad22.php#anchor_Toc239246425) (Hector dies, the Trojans lament).
-- [Sappho 1, 16, 31](https://www.uh.edu/~cldue/texts/sappho.html).
+- [Sappho 1, 16, 31](https://drive.google.com/file/d/19GLpkJtqXdBS1AWqTZmSz6wIlRQATpHi/view?usp=sharing). -- Carson, Anne (trans.). 2003. *If Not, Winter: Fragments of Sappho*. New York.
 
 > **W 1/30**: Class visit from Ms. Jennifer Whelan, MLIS, on strategies for reading the different types of material with which we'll be dealing in this course.
 
