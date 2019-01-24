@@ -9,6 +9,8 @@ The readings listed under each week should be completed by the Monday class meet
 <hr>
 ## Week 1 (W 1/23) - Introduction
 
+**Slideshow**: link [here](https://docs.google.com/presentation/d/1s9zAVoML6h07TwXnapk2fndzjL5NnD_8K5nmWnLxoKc/edit?usp=sharing).
+
 <p class="list">Read <a href="https://drive.google.com/file/d/15midUtvMqkaagLbVXOpfYr8HDud49Xgf/view?usp=sharing">Ormand pp. 1-20</a> (2nd ed: pp. 1-24).</p>
 <ul></ul>
 <hr>
