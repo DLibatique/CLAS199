@@ -158,3 +158,23 @@ I might fill it out like this:
 A grade of satisfactory will be granted for creative and grammatically-sound completions of the fragments.
 
 <a href="#top" class="underline">Back to top.</a>
+<hr>
+
+### <a name="tweet">Creative Project 8: Livetweet a Reading.</a>
+
+This creative project challenges you to concisely summarize and react to any of the readings assigned in the course schedule via a livetweet thread on Twitter. Twitter's 280-character tweet limits and threading capabilities allow you to react to a reading, podcast, etc., in real time while exercising your capacities for brevity and comprehension. Check out an example of a livetweet reaction to a reading from Dr. Amy Pistone of Notre Dame University:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Reading &quot;Criteria of Negro Art&quot; by W.E.B. Du Bois instead of writing.  Thread to record my fave bits, possibly for later use or also just because this work is wonderful and y&#39;all should read the whole thing (it&#39;s not long) or else just these highlights! 👇<a href="https://t.co/U9Vz1o29wT">https://t.co/U9Vz1o29wT</a></p>&mdash; Amy Pistone (@apistone) <a href="https://twitter.com/apistone/status/1024761042872807425?ref_src=twsrc%5Etfw">August 1, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+The criteria for a grade of satisfactory are as follows:
+1. The livetweet thread must offer the most important arguments or points of one of the assignments listed on the course schedule (any reading or podcast).
+    - It may also include your reactions to those arguments or points and how they relate to your understanding of gender and sexuality.
+2. Your first tweet must include:
+    - the bibliographic entry for the source that you are livetweeting (copy and paste from the course schedule)
+    - the hashtag #AncGenSex
+3. Your livetweets must be threaded together. For instructions on how to thread properly, click [here](https://help.twitter.com/en/using-twitter/create-a-thread).
+4. Your livetweet thread must be 8-12 tweets long.
+5. You must include at least two important quotes from the reading or podcast in your tweet thread.
+    - These two quotes cannot take up more than 2 of your 8-12 tweets.
+6. Post the Twitter thread, get a link for the first tweet of the thread, and then e-mail me the link.
