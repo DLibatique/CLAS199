@@ -9,7 +9,7 @@ title: Creative Projects
 
 <a href="#poem" class="underline">Write a Poem</a> \| <a href="#art" class="underline">Artistic Rendering</a> \| <a href="#eidolon" class="underline"><em>Eidolon</em> Pitch</a> \|  
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="#oa" class="underline">Selfie and Object Analysis</a> \| <a href="#pod" class="underline">Podcast Lesson</a> \| <a href="#vid" class="underline">Video Lesson</a> \|  
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="#sappho" class="underline">Complete the Fragments of Sappho</a> \| <a href="tweet" class="underline">Livetweet a Reading</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="#sappho" class="underline">Complete the Fragments of Sappho</a> \| <a href="#tweet" class="underline">Livetweet a Reading</a>
 
 <hr>
 ### <a name="poem">Creative Project 1: Write a Poem.</a>
