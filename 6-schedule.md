@@ -8,7 +8,7 @@ The readings listed under each week should be completed by the Monday class meet
 \* indicates a reading that may be used for a response.
 <hr>
 ## Navigation
-[Week 1 (W 1/23)](#01) \| [Week 2 (M 1/28, W 1/30)](#02) \| [Week 3 (M 2/4, W 2/6)](#03)
+[Week 1 (W 1/23)](#01) \| [Week 2 (M 1/28, W 1/30)](#02) \| [Week 3 (M 2/4, W 2/6)](#03) \| [Week 4 (M 2/11, W 2/13)](#04) \| [Week 5 (M 2/18, W 2/20)](#05) \| [Week 6 (M 2/25, W 2/27)](#06) \| [Week 7 (M 3/11, W 3/13)](#07) \| [Week 8 (M 3/18, W 3/20)](#08) \| [Week 9 (M 3/25, W 3/27)](#09) \| [Week 10 (M 4/1, W 4/3)](#10) \| [Week 11 (M 4/8, W 4/10)](#11) \| [Week 12 (M 4/15, W 4/17)](#12) \| [Week 13 (M 4/29, W 5/1)](#13) \| [Week 14 (M 5/6)](#14)
 
 <hr>
 
@@ -54,7 +54,7 @@ Quiz #1 on W 2/6.
 
 <hr>
 
-## Week 4 (M 2/11, W 2/13) - Sexuality in Greek Comedy
+## <a name="04">Week 4 (M 2/11, W 2/13) - Sexuality in Greek Comedy</a>
 
 <p class="list">Assignments:</p>
 - Ormand 60-74 (2nd ed: 73-91).
@@ -67,7 +67,7 @@ Quiz #1 on W 2/6.
 
 <hr>
 
-## Week 5 (M 2/18, W 2/20) - Legal and Illegal Sex in Ancient Greece
+## <a name="05">Week 5 (M 2/18, W 2/20) - Legal and Illegal Sex in Ancient Greece</a>
 
 <p class="list">Assignments:</p>
 - Ormand 75-90 (2nd ed: 92-110).
@@ -82,7 +82,7 @@ Quiz #2 on 2/20.
 
 <hr>
 
-## Week 6 (M 2/25, W 2/27) - Philosophical Sex
+## <a name="06">Week 6 (M 2/25, W 2/27) - Philosophical Sex</a>
 
 <p class="list">Assignments:</p>
 - Ormand 91-106 (2nd ed: 111-129).
@@ -96,7 +96,7 @@ Quiz #2 on 2/20.
 
 <hr>
 
-## Week 7 (M 3/11, W 3/13) - Love and Sex in Hellenistic Poetry
+## <a name="07">Week 7 (M 3/11, W 3/13) - Love and Sex in Hellenistic Poetry</a>
 
 <p class="list">Assignments:</p>
 - Ormand 107-127 (2nd ed: 156-181).
@@ -111,7 +111,7 @@ TBD
 
 <hr>
 
-## Week 8 (M 3/18, W 3/20) - Rome and Roman Sex
+## <a name="08">Week 8 (M 3/18, W 3/20) - Rome and Roman Sex</a>
 
 <p class="list">Assignments:</p>
 - Ormand 128-145 (2nd ed: 182-201).
@@ -124,7 +124,7 @@ TBD
 
 <hr>
 
-## Week 9 (M 3/25, W 3/27) - Roman Comic Sex
+## <a name="09">Week 9 (M 3/25, W 3/27) - Roman Comic Sex</a>
 
 <p class="list">Assignments:</p>
 - Ormand 146-163 (2nd ed: 202-223).
@@ -139,7 +139,7 @@ Quiz #4 on W 3/27.
 
 <hr>
 
-## Week 10 (M 4/1, W 4/3 [CAMWS]) - Legal and Illegal Sex in Ancient Rome
+## <a name="10">Week 10 (M 4/1, W 4/3 [CAMWS]) - Legal and Illegal Sex in Ancient Rome</a>
 
 <p class="list">Assignments:</p>
 - Ormand 164-182 (2nd ed: 225-246).
@@ -153,7 +153,7 @@ Quiz #4 on W 3/27.
 
 <hr>
 
-## Week 11 (M 4/8, W 4/10) - Roman Poetry about Love and Sex: Catullus and the Elegists
+## <a name="11">Week 11 (M 4/8, W 4/10) - Roman Poetry about Love and Sex: Catullus and the Elegists</a>
 
 <p class="list">Assignments:</p>
 - Ormand 183-208 (2nd ed: 247-278).
@@ -168,7 +168,7 @@ Quiz #5 on W 4/10.
 
 <hr>
 
-## Week 12 (M 4/15, W 4/17) - Ovid: Proto-Feminist or Extreme Misogynist?
+## <a name="12">Week 12 (M 4/15, W 4/17) - Ovid: Proto-Feminist or Extreme Misogynist?</a>
 
 **General CW**: rape.
 
@@ -184,7 +184,7 @@ Quiz #5 on W 4/10.
 
 <hr>
 
-## Week 13 (M 4/29, W 5/1) - Sex in Satire and Invective Poetry
+## <a name="13">Week 13 (M 4/29, W 5/1) - Sex in Satire and Invective Poetry</a>
 
 <p class="list">Assignments:</p>
 - Ormand 237-261 (2nd ed: 344-374).
@@ -198,7 +198,7 @@ Quiz #6 on W 5/1.
 
 <hr>
 
-## Week 14 (M 5/6) - Conclusion
+## <a name="14">Week 14 (M 5/6) - Conclusion</a>
 
 <p class="list">Assignments:</p>
 - Ormand 262-268 (2nd ed: 375-382).
