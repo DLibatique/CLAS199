@@ -7,7 +7,10 @@ The readings listed under each week should be completed by the Monday class meet
 
 \* indicates a reading that may be used for a response.
 <hr>
-Navigation: [Week 1 (W 1/23)](#01) \| [Week 2 (M 1/28, W 1/30)](#02) \| [Week 3 (M 2/4, W 2/6)](#03)
+## Navigation
+[Week 1 (W 1/23)](#01) \| [Week 2 (M 1/28, W 1/30)](#02) \| [Week 3 (M 2/4, W 2/6)](#03)
+
+<hr>
 
 ## <a name="01">Week 1 (W 1/23) - Introduction</a>
 
