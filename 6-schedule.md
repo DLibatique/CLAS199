@@ -7,7 +7,9 @@ The readings listed under each week should be completed by the Monday class meet
 
 \* indicates a reading that may be used for a response.
 <hr>
-## Week 1 (W 1/23) - Introduction
+Navigation: [Week 1 (W 1/23)](#01) \| [Week 2 (M 1/28, W 1/30)](#02) \| [Week 3 (M 2/4, W 2/6)](#03)
+
+## <a name="#01">Week 1 (W 1/23) - Introduction</a>
 
 **Slideshow**: link [here](https://docs.google.com/presentation/d/1s9zAVoML6h07TwXnapk2fndzjL5NnD_8K5nmWnLxoKc/edit?usp=sharing).
 
@@ -15,7 +17,7 @@ The readings listed under each week should be completed by the Monday class meet
 <ul></ul>
 <hr>
 
-## Week 2 (M 1/28, W 1/30) - Homer, Hesiod, and Greek Lyric Poetry
+## <a name="#02">Week 2 (M 1/28, W 1/30) - Homer, Hesiod, and Greek Lyric Poetry</a>
 
 <p class="list">Assignments:</p>
 - [Ormand 21-45](https://drive.google.com/file/d/15rZykQDi0Ke2HBxQz9j-vQeEuWttI_6P/view?usp=sharing) (2nd ed: 25-54).
@@ -33,7 +35,7 @@ The readings listed under each week should be completed by the Monday class meet
 
 <hr>
 
-## Week 3 (M 2/4, W 2/6) - Sexual Roles and Sexual Rules in Classical Athens
+## <a name="#03">Week 3 (M 2/4, W 2/6) - Sexual Roles and Sexual Rules in Classical Athens</a>
 
 <p class="list">Assignments:</p>
 - [Ormand 46-59](https://drive.google.com/file/d/15sbMxY3eqCOfCAubuN_BAT1Qh-9iFuSq/view?usp=sharing) (2nd ed: 55-72).
