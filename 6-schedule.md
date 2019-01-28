@@ -3,6 +3,8 @@ layout: page
 title: Schedule
 ---
 
+<a name="top"></a>
+
 The readings listed under each week should be completed by the Monday class meeting of that week. We will spread the discussion over both class meetings, but all readings will be needed to make sense of the week's topic.
 
 \* indicates a reading that may be used for a response.
@@ -18,6 +20,8 @@ The readings listed under each week should be completed by the Monday class meet
 
 <p class="list">Read <a href="https://drive.google.com/file/d/15midUtvMqkaagLbVXOpfYr8HDud49Xgf/view?usp=sharing">Ormand pp. 1-20</a> (2nd ed: pp. 1-24).</p>
 <ul></ul>
+<a href="#top" class="underline">Back to top.</a>
+
 <hr>
 
 ## <a name="02">Week 2 (M 1/28, W 1/30) - Homer, Hesiod, and Greek Lyric Poetry</a>
@@ -36,6 +40,7 @@ The readings listed under each week should be completed by the Monday class meet
 - \* Listen to the [In Our Time podcast on Sappho](https://www.bbc.co.uk/sounds/play/b05pqsk4).
 - \* Listen to the [Ancient Greece Declassified podcast on Sappho](http://greecepodcast.com/episode4.html).
 
+<a href="#top" class="underline">Back to top.</a>
 <hr>
 
 ## <a name="03">Week 3 (M 2/4, W 2/6) - Sexual Roles and Sexual Rules in Classical Athens</a>
@@ -52,6 +57,8 @@ Quiz #1 on W 2/6.
 <p class="list">Optional:</p>
 - \* Beck, Bill. 2018. “[The Measure of a Man: Minor Classical Phalluses, Major Modern Fragility.](https://eidolon.pub/the-measure-of-a-man-a3ae1af0dcb2)” *Eidolon*.
 
+<a href="#top" class="underline">Back to top.</a>
+
 <hr>
 
 ## <a name="04">Week 4 (M 2/11, W 2/13) - Sexuality in Greek Comedy</a>
@@ -64,6 +71,8 @@ Quiz #1 on W 2/6.
 
 <p class="list">Optional:</p>
 - \* Listen to the [In Our Time podcast on Comedy in Ancient Greek Theatre](https://www.bbc.co.uk/sounds/play/p003c1d3).
+
+<a href="#top" class="underline">Back to top.</a>
 
 <hr>
 
@@ -80,6 +89,8 @@ Quiz #2 on 2/20.
 <p class="list">Optional:</p>
 - \* Listen to the [History of Ancient Greece podcast on Love, Sex, and Prostitution](http://www.thehistoryofancientgreece.com/2018/03/071-love-sex-and-prostitution.html).
 
+<a href="#top" class="underline">Back to top.</a>
+
 <hr>
 
 ## <a name="06">Week 6 (M 2/25, W 2/27) - Philosophical Sex</a>
@@ -93,6 +104,8 @@ Quiz #2 on 2/20.
 
 <p class="list">Optional:</p>
 - \* Davidson, James. 2007. "[Noonday Phaedrus. Cephalus at Dawn.](https://drive.google.com/file/d/177ZzqfVR5eqM4G1b9eVSjRZSrbPw2bvH/view?usp=sharing)" In *The Greeks & Greek Love: A Radical Reappraisal of Homosexuality in Ancient Greece*, 201-220. London.
+
+<a href="#top" class="underline">Back to top.</a>
 
 <hr>
 
@@ -109,6 +122,8 @@ Quiz #3 on W 3/13.
 <p class="list">Optional:</p>
 TBD
 
+<a href="#top" class="underline">Back to top.</a>
+
 <hr>
 
 ## <a name="08">Week 8 (M 3/18, W 3/20) - Rome and Roman Sex</a>
@@ -121,6 +136,8 @@ TBD
 
 <p class="list">Optional:</p>
 - \* Williams, Craig. 1999. "[Introduction.](https://drive.google.com/file/d/1b_TBVqU75mG4cPv-26vBrlLs39-rf_-f/view?usp=sharing)" In *Roman Homosexuality: Ideologies of Masculinity in Classical Antiquity*, 3-14. New York and Oxford.
+
+<a href="#top" class="underline">Back to top.</a>
 
 <hr>
 
@@ -137,6 +154,8 @@ Quiz #4 on W 3/27.
 <p class="list">Optional:</p>
 - \* [Plautus' *Casina*](https://drive.google.com/file/d/1llLRZDCfjAZDu8k3NKYE_Cz5cRi8wA8M/view?usp=sharing) (Christenson, David, tr. 2008. *Plautus: Four Plays.* Newburyport (MA).)
 
+<a href="#top" class="underline">Back to top.</a>
+
 <hr>
 
 ## <a name="10">Week 10 (M 4/1, W 4/3 [CAMWS]) - Legal and Illegal Sex in Ancient Rome</a>
@@ -150,6 +169,8 @@ Quiz #4 on W 3/27.
 
 <p class="list">Optional:</p>
 - \* Williams, Craig. 1999. "[The Concept of *Stuprum*.](https://drive.google.com/file/d/1xsF15s9r8Ekp2XX8IfXVd0VwLVXIQ1t1/view?usp=sharing)" In *Roman Homosexuality*, 96-124. New York and Oxford.
+
+<a href="#top" class="underline">Back to top.</a>
 
 <hr>
 
@@ -165,6 +186,8 @@ Quiz #5 on W 4/10.
 
 <p class="list">Optional:</p>
 - \* Listen to the [Reading Latin Poetry podcast on Catullus 16](http://www.readinglatinpoetry.com/podcast/2015/6/12/episode-17-sexual-and-literary-violence-catullus-16).
+
+<a href="#top" class="underline">Back to top.</a>
 
 <hr>
 
@@ -182,6 +205,8 @@ Quiz #5 on W 4/10.
 - Ormand 209-219 (2nd ed: 279-292)
 - \* Barish, Sasha. 2018. "[Iphis’ Hair, Io’s Reflection, and the Gender Dysphoria of the *Metamorphoses*.](https://eidolon.pub/iphis-hair-io-s-reflection-and-the-gender-dysphoria-of-the-metamorphoses-4b75c1ba38d7)" *Eidolon*.
 
+<a href="#top" class="underline">Back to top.</a>
+
 <hr>
 
 ## <a name="13">Week 13 (M 4/29, W 5/1) - Sex in Satire and Invective Poetry</a>
@@ -196,6 +221,8 @@ Quiz #6 on W 5/1.
 
 <p class="list">Optional:</p>
 
+<a href="#top" class="underline">Back to top.</a>
+
 <hr>
 
 ## <a name="14">Week 14 (M 5/6) - Conclusion</a>
@@ -203,3 +230,5 @@ Quiz #6 on W 5/1.
 <p class="list">Assignments:</p>
 - Ormand 262-268 (2nd ed: 375-382).
 - \* LaBuff, Jeremy. 2019. "[A Bigger, Sexier Ancient World: Why We Should Care That Other Ancients Screwed.](https://eidolon.pub/a-bigger-sexier-ancient-world-ee4aefbe69cf)" *Eidolon*.
+
+<a href="#top" class="underline">Back to top.</a>
