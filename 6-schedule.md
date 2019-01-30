@@ -26,6 +26,8 @@ The readings listed under each week should be completed by the Monday class meet
 
 ## <a name="02">Week 2 (M 1/28, W 1/30) - Homer, Hesiod, and Greek Lyric Poetry</a>
 
+**Slideshow**: link [here](https://docs.google.com/presentation/d/1KH5oTiErjA6dBk7D9ijYJK8mSH5i-95Dg8d4OkHcBIo/edit?usp=sharing).
+
 <p class="list">Assignments:</p>
 - [Ormand 21-45](https://drive.google.com/file/d/15rZykQDi0Ke2HBxQz9j-vQeEuWttI_6P/view?usp=sharing) (2nd ed: 25-54).
 - \* Haselswerdt, Ella. 2016. “[Re-Queering Sappho.](https://eidolon.pub/re-queering-sappho-c6c05b6b9f0b)” *Eidolon*.
