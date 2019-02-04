@@ -47,6 +47,8 @@ The readings listed under each week should be completed by the Monday class meet
 
 ## <a name="03">Week 3 (M 2/4, W 2/6) - Sexual Roles and Sexual Rules in Classical Athens</a>
 
+**Slideshow**: link [here](https://docs.google.com/presentation/d/1dSzjLMmJgQPif0FNWBfe2p06PDX2h3qKDcpS4j7N-Js/edit?usp=sharing).
+
 <p class="list">Assignments:</p>
 - [Ormand 46-59](https://drive.google.com/file/d/15sbMxY3eqCOfCAubuN_BAT1Qh-9iFuSq/view?usp=sharing) (2nd ed: 55-72).
 - \* Robson, James. 2013. “[Same-Sex Relationships.](https://drive.google.com/file/d/1_ExjMvd3RdSnCLDcrPgawoeV1ru40X4V/view?usp=sharing)” In *Sex and Sexuality in Classical Athens*, 36-66. Edinburgh.
