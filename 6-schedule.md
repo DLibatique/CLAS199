@@ -69,6 +69,8 @@ Quiz #1 on W 2/6.
 
 **Slideshow**: link [here](https://docs.google.com/presentation/d/1eIDrpjC3SR2YwhCiQhWP-uo4uHcjqfRsgRH6sFKsPgo/edit?usp=sharing).
 
+***Lysistrata*** **Passage**: link [here](https://drive.google.com/file/d/10U3E5dUWwJvynZYHiCpO-HjDOJSPvcHf/view?usp=sharing).
+
 <p class="list">Assignments:</p>
 - Ormand 60-74 (2nd ed: 73-91).
 - \* Listen to **0:00 to 3:30, then 20:43 to the end** of the [History of Ancient Greece podcast on Old Comedy and Aristophanes](http://www.thehistoryofancientgreece.com/2017/09/054-old-comedy-and-aristophanes.html) (scroll to the middle of the page for the appropriate play button).
