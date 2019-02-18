@@ -86,6 +86,8 @@ Quiz #1 on W 2/6.
 
 ## <a name="05">Week 5 (M 2/18, W 2/20) - Legal and Illegal Sex in Ancient Greece</a>
 
+**Slideshow**: link [here](https://docs.google.com/presentation/d/1j3WM3fHVLvT1fKncdfcy_l__oq4UE0DgCUBuamR5gkg/edit?usp=sharing).
+
 **Gorgias'** ***Helen*** **translation**: link [here](http://zetesis.org/wp1/wp-content/uploads/2014/11/Gorgias.Helen_.pdf).
 
 <p class="list">Assignments:</p>
