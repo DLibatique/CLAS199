@@ -86,6 +86,8 @@ Quiz #1 on W 2/6.
 
 ## <a name="05">Week 5 (M 2/18, W 2/20) - Legal and Illegal Sex in Ancient Greece</a>
 
+**Gorgias'** ***Helen*** **translation**: link [here](http://zetesis.org/wp1/wp-content/uploads/2014/11/Gorgias.Helen_.pdf).
+
 <p class="list">Assignments:</p>
 - Ormand 75-90 (2nd ed: 92-110).
 - \* Cantarella, Eva. 2005. "[Gender, Sexuality, and Law.](https://drive.google.com/file/d/17-54_nAv2-NSSRxnxAd9vonn-pDden9w/view?usp=sharing)" In *The Cambridge Companion to Ancient Greek Law*, edited by Michael Gagarin and David Cohen, 236-253. Cambridge.
