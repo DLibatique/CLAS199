@@ -107,6 +107,8 @@ Quiz #2 on 2/20.
 
 ## <a name="06">Week 6 (M 2/25, W 2/27) - Philosophical Sex</a>
 
+**Slideshow**: link [here](https://docs.google.com/presentation/d/1E6zEalXhuYeE7km9BJl65XP7iXMy4FkziithaODqtJI/edit?usp=sharing).
+
 <p class="list">Assignments:</p>
 - Ormand 91-106 (2nd ed: 111-129).
 - \* Listen to the [Ancient Greece Declassified podcast on Platonic Love](http://greecepodcast.com/episode17.html).
