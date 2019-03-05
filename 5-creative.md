@@ -143,7 +143,7 @@ Resources and Tips:
 
 ### <a name="sappho">Creative Project 7: Complete the Fragments of Sappho.</a>
 
-This creative project concerns the Archaic female poet Sappho, whose poetry remains for us only in fragments. I will provide a set of **four separate fragments**; your goal is to **fill in the lacunae based on the themes of Sappho’s more complete fragments**.
+This creative project concerns the Archaic female poet Sappho, whose poetry remains for us only in fragments. [Take a look at this set of four of Sappho's fragments.](https://drive.google.com/file/d/1SkRpll5Xc34b4xHGpTuoW6d9QwwEq4iD/view?usp=sharing) Your goal is to **fill in the lacunae (or missing gaps) based on the themes of Sappho’s more complete fragments**.
 
 For example, if faced with a fragment like this (Sappho 29C):
 
