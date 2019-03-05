@@ -14,7 +14,7 @@ title: Creative Projects
 <hr>
 ### <a name="poem">Creative Project 1: Write a Poem.</a>
 
-I will provide a small set of poems regarding gender or sexuality written by ancient Greek and Latin authors. Your goal in this creative project is to choose one author and **write a poem of 30-40 lines about gender or sexuality in their style, capturing their essence by using similar diction, poetic structure, and themes; also, write a short (4-5 sentence) blurb on your process -- how did you go about capturing the author's essence?** The poem’s meter is of your own choosing (even free verse!). The topic of the poem can be personal, drawn from your own life, or more generalized — you can create your own persona!
+[Review this set of four poems from Greek and Latin poets on themes of love, sex, and gender](https://drive.google.com/file/d/1SoLvgUvkIcJefDO0OklxWjnosyiPiTAv/view?usp=sharing). Your goal in this creative project is to choose one author and **write a poem of 30-40 lines about gender or sexuality in their style, capturing their essence by using similar diction, poetic structure, and themes; also, write a short (4-5 sentence) blurb on your process -- how did you go about capturing the author's essence?** The poem’s meter is of your own choosing (even free verse!). The topic of the poem can be personal, drawn from your own life, or more generalized — you can create your own persona!
 
 The criteria for a grade of satisfactory are as follows:
 1. The poem must be 30-40 lines long.
