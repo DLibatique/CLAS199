@@ -125,6 +125,8 @@ Quiz #2 on 2/20.
 
 ## <a name="07">Week 7 (M 3/11, W 3/13) - Love and Sex in Hellenistic Poetry</a>
 
+**Slideshow**: link [here](https://docs.google.com/presentation/d/1INy0L042W2iidVud6DKAb7CXj-rFUJca6BmaaFkdj8w/edit?usp=sharing).
+
 <p class="list">Assignments:</p>
 - Ormand 107-127 (2nd ed: 156-181).
 - \* Murray, Jackie and Jonathan M. Rowland. 2007. "[Gendered Voices in Hellenistic Epigram.](https://drive.google.com/file/d/175fDzT2B8cQt6VQ3MfNTC_2DS_Vo6BF8/view?usp=sharing)" In *Brill's Companion to Hellenistic Epigram*, edited by Peter Bing and Jon Bruss, 211-232. Leiden.
