@@ -144,6 +144,8 @@ TBD
 
 ## <a name="08">Week 8 (M 3/18, W 3/20) - Rome and Roman Sex</a>
 
+**Slideshow**: link [here](https://docs.google.com/presentation/d/1Z_cJbWSa1S4EnfAXS9M9aa70FYqP3xLyOajnQ64x14M/edit?usp=sharing).
+
 <p class="list">Assignments:</p>
 - Ormand 128-145 (2nd ed: 182-201).
 - \* Walters, Jonathan. 1997. "[Invading the Roman Body: Manliness and Impenetrability in Roman Thought.](https://drive.google.com/file/d/16TtKhHiHvdQ4uxnM_BwXvRvsAUg7Ijij/view?usp=sharing)" In *Roman Sexualities*, edited by Judith P. Hallett and Marilyn B. Skinner, 29-43. Princeton.
