@@ -218,6 +218,7 @@ Quiz #5 on W 4/10.
 - \* Zuckerberg, Donna. 2015. "[Bang Rome: Ovid and the Original Sin of Pickup Artistry.](https://eidolon.pub/bang-rome-2214f4a3d5c5)” *Eidolon*.
 - Ovid *Metamorphoses* 6.424-674 ____________
 - \* James, Sharon L. 2016. "[Rape and Repetition in Ovid's *Metamorphoses*: Myth, History, Structure, Rome.](https://drive.google.com/file/d/18IT6u4Hg8N3nM0yTMh9uGpHM59nHxBh0/view?usp=sharing)" In *Repeat Performances*, edited by Laurel Fulkerson, 154-175. Madison (Wisc.).
+- \* McCarter, Stephanie. 2018. "[Rape, Lost in Translation.](https://electricliterature.com/rape-lost-in-translation-7d069ce39d12)" *Electric Literature*. **CW**: rape.
 
 <p class="list">Optional:</p>
 - Ormand 209-219 (2nd ed: 279-292)
