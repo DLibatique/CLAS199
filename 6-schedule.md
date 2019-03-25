@@ -161,6 +161,8 @@ TBD
 
 ## <a name="09">Week 9 (M 3/25, W 3/27) - Roman Comic Sex</a>
 
+**Slideshow**: link [here](https://docs.google.com/presentation/d/1g0HQ3tMjFgLxj-F2mrz7YADgzk-t6EUePhBmgdkulsY/edit?usp=sharing).
+
 <p class="list">Assignments:</p>
 - Ormand 146-163 (2nd ed: 202-223).
 - \* James, Sharon. 2016. "[Ancient Comedy, Women's Lives: Finding Social History and Seeing the Present in Classical Comedy.](https://humanitiesfutures.org/papers/ancient-comedy-womens-lives-finding-social-history-seeing-present-classical-comedy/)" Humanities Futures: Franklin Humanities Institute, Duke University.
