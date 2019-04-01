@@ -180,6 +180,8 @@ Quiz #4 on W 3/27.
 
 ## <a name="10">Week 10 (M 4/1, W 4/3 [CAMWS]) - Legal and Illegal Sex in Ancient Rome</a>
 
+**Slideshow**: link [here](https://docs.google.com/presentation/d/1nulURJuBi7ROvlVOtV_O2susInPYOSXFXe-ybVfxtuU/edit?usp=sharing).
+
 <p class="list">Assignments:</p>
 - Ormand 164-182 (2nd ed: 225-246).
 - \* Kenty, Joanna. 2017. “[Avenging Lucretia: From Rape to Revolution.](https://eidolon.pub/avenging-lucretia-dd14e936840c)” *Eidolon*. **CW**: rape.
