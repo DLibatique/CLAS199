@@ -180,7 +180,8 @@ Quiz #4 on W 3/27.
 
 ## <a name="10">Week 10 (M 4/1, W 4/3 [CAMWS]) - Legal and Illegal Sex in Ancient Rome</a>
 
-**Slideshow**: link [here](https://docs.google.com/presentation/d/1nulURJuBi7ROvlVOtV_O2susInPYOSXFXe-ybVfxtuU/edit?usp=sharing).
+**Slideshow**: link [here](https://docs.google.com/presentation/d/1nulURJuBi7ROvlVOtV_O2susInPYOSXFXe-ybVfxtuU/edit?usp=sharing).  
+**Panopto lecture for 4/3**: link [here](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c5bc34ec-f38f-4147-a754-aa240001b444).
 
 <p class="list">Assignments:</p>
 - Ormand 164-182 (2nd ed: 225-246).
