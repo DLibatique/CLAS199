@@ -199,6 +199,8 @@ Quiz #4 on W 3/27.
 
 ## <a name="11">Week 11 (M 4/8, W 4/10) - Roman Poetry about Love and Sex: Catullus and the Elegists</a>
 
+**Slideshow**: link [here](https://docs.google.com/presentation/d/1DXCz3ZSRHsLTj2kH8BfktSfSQmUE-7L0W2AFT2-_f5o/edit?usp=sharing)
+
 <p class="list">Assignments:</p>
 - Ormand 183-208 (2nd ed: 247-278).
 - \* Manwell, Elizabeth. 2007. "[Gender and Masculinity.](https://drive.google.com/file/d/18X1Ew89AFFLCfO0yA_NJ7AtUAJWbV5SS/view?usp=sharing)" In *A Companion to Catullus*, edited by Marilyn B. Skinner, 111-128. Malden (MA) and Oxford.
