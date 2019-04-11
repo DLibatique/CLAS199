@@ -128,13 +128,13 @@ There will be **six (6)** quizzes administered in class throughout the semester 
 <hr>
 # <a name="finex">Final Exam Guidelines</a>
 
-Towards the end of the semester, you will choose either to write an argumentative essay or take an exam. The final exam will be composed of a combination of multiple-choice questions, fill-in-the-blanks, and one or two essay questions. Material for the multiple-choice questions and fill-in-the-blanks may be drawn from any of the underlined terms on the slideshows. Material for the essays may be drawn from any topic discussed in class. The exam will take about an hour and a half to complete. The exam will be graded out of a total of 50 points, and **a satisfactory grade will be 35/50 or higher**. If you opt to take the final exam, you must let me know **by Monday 4/9 via e-mail**, and we will use that e-mail correspondence to determine a time and place for the exam.
+Anyone who did not opt in to writing a final essay by W 4/10 will by default be taking a final exam on **Friday May 10 at 8am**. The final exam will be composed of a combination of multiple-choice questions, fill-in-the-blanks, matching, and one or two essay questions. Material for the multiple choice, fill-in-the-blanks, and matching may be drawn from any of the underlined terms on the slideshows. Material for the essays may be drawn from any topic discussed in class. The exam will take about an hour and a half to complete. The exam will be graded out of a total of 50 points, and **a satisfactory grade will be 35/50 or higher**.
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
 # <a name="finess">Final Essay Guidelines</a>
 
-For reasons of space, the guidelines for the final essay will be provided directly to those who opt to write it as we get closer to the end of the semester. The final essay will be **5-6pp. double-spaced** and encourage you to make and substantiate an argument about gender and sexuality in the ancient world. To be clear, 5-6 pages is not a lot of space; the challenge of this essay is making a persuasive argument using proper primary and scholarly secondary evidence in a small amount of space. Sample prompts include:
+You must have opted in to writing a final essay by W 4/10. The final essay will be **5-6pp. double-spaced** and encourage you either to make and substantiate an argument about gender and sexuality in the ancient world or to reflect personally on what you've learned this semester. To be clear, 5-6 pages is not a lot of space; the challenge of this essay is making a persuasive argument using proper primary and scholarly secondary evidence in a small amount of space. Sample prompts include:
 
 - Can we equate the ancient *kinaidos* / *cinaedus* with the modern notion of a gay man? Why or why not?
 - Can we equate the ancient *tribas* with the modern notion of a lesbian woman? Why or why not?
@@ -143,6 +143,10 @@ For reasons of space, the guidelines for the final essay will be provided direct
 You will be required to draw on at least two primary sources and two secondary sources to write your essay.
 
 The final essay will be due on **Friday, May 10, by 5pm**.
+
+Detailed guidelines can be found [here](https://dlibatique.github.io/images/essaydetails.pdf).
+
+Example citations can be found [here](https://dlibatique.github.io/images/examplecitations.pdf).
 
 <a href="#top" class="underline">Back to top.</a>
 <hr>
