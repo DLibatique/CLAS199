@@ -218,7 +218,9 @@ Quiz #5 on W 4/10.
 
 ## <a name="12">Week 12 (M 4/15, W 4/17) - Ovid: Proto-Feminist or Extreme Misogynist?</a>
 
-**General CW**: rape.
+**General CW**: rape.  
+
+**Slideshow**: link [here](https://docs.google.com/presentation/d/1R9e3QywbPuBBL4uEGUtfkBBBUcBxhcmdlxWUyTWLp5s/edit?usp=sharing).
 
 <p class="list">Assignments:</p>
 - [Ovid *Ars Amatoria* 1.1-772](https://drive.google.com/file/d/18aN6K-iw8S3_IUDcjH5Ihb9j_Le21gcf/view?usp=sharing) (Francese, Christopher and R. Scott Smith, eds. 2014. *Ancient Rome: An Anthology of Sources*, 227-248. Indianapolis and Cambridge.)
