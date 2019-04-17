@@ -221,6 +221,7 @@ Quiz #5 on W 4/10.
 **General CW**: rape.  
 
 **Slideshow**: link [here](https://docs.google.com/presentation/d/1R9e3QywbPuBBL4uEGUtfkBBBUcBxhcmdlxWUyTWLp5s/edit?usp=sharing).  
+**Panopto lecture for 4/17**: link [here](https://holycross.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b46434c9-eab8-4641-bd15-aa320132363d).
 
 **Ovid** ***Metamoporphoses*** **selections**: link [here](https://drive.google.com/file/d/18dfu8BIVYTYY6YAnCxxRngRSLJpjQQhC/view?usp=sharing)  
 **Ovid's Philomela episode**: link [here](https://drive.google.com/file/d/18huYVjRHPl2VbGLWXpx4161gVHnJ_Z4R/view?usp=sharing).
