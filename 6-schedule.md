@@ -220,7 +220,10 @@ Quiz #5 on W 4/10.
 
 **General CW**: rape.  
 
-**Slideshow**: link [here](https://docs.google.com/presentation/d/1R9e3QywbPuBBL4uEGUtfkBBBUcBxhcmdlxWUyTWLp5s/edit?usp=sharing).
+**Slideshow**: link [here](https://docs.google.com/presentation/d/1R9e3QywbPuBBL4uEGUtfkBBBUcBxhcmdlxWUyTWLp5s/edit?usp=sharing).  
+
+**Ovid** ***Metamoporphoses*** **selections**: link [here](https://drive.google.com/file/d/18dfu8BIVYTYY6YAnCxxRngRSLJpjQQhC/view?usp=sharing)  
+**Ovid's Philomela episode**: link [here](https://drive.google.com/file/d/18huYVjRHPl2VbGLWXpx4161gVHnJ_Z4R/view?usp=sharing).
 
 <p class="list">Assignments:</p>
 - [Ovid *Ars Amatoria* 1.1-772](https://drive.google.com/file/d/18aN6K-iw8S3_IUDcjH5Ihb9j_Le21gcf/view?usp=sharing) (Francese, Christopher and R. Scott Smith, eds. 2014. *Ancient Rome: An Anthology of Sources*, 227-248. Indianapolis and Cambridge.)
