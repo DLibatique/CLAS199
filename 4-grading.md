@@ -164,7 +164,7 @@ etc.
 
 The guidelines for submission of all media-based creative projects is listed under the appropriate heading.
 
-All creative projects must be submitted to me **by 5pm on Thursday, May 9** (the first day of the exam period), and you may submit **no more than two (2) creative projects between April 11 and May 9**. There is no due date for any given creative project, but if you do more than one, it behooves you to spread the wealth time-wise, as it were, as some projects may take some time to complete.
+All creative projects must be submitted to me **by 5pm on Thursday, May 9** (the first day of the exam period). There is no due date for any given creative project, but if you do more than one, it behooves you to spread the wealth time-wise, as it were, as some projects may take some time to complete.
 
 If you’re going for an A for the semester (i.e., completing 4 creative projects), I recommend attempting to complete the four projects according to the following timeline:
 - Submit Creative Project #1: 2/25
