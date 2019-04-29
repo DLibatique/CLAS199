@@ -242,6 +242,8 @@ Quiz #5 on W 4/10.
 
 ## <a name="13">Week 13 (M 4/29, W 5/1) - Sex in Satire and Invective Poetry</a>
 
+**Slideshow**: link [here](https://docs.google.com/presentation/d/1b0H6d7eS05oZ9GsG_6Xg7k19ET4pVrv2KtwGq9_y000/edit?usp=sharing).
+
 <p class="list">Assignments:</p>
 - Ormand 237-261 (2nd ed: 344-374).
 - \* Rosen, Ralph M. and Catherine C. Keane. 2013. "[Greco-Roman Satirical Poetry.](https://drive.google.com/file/d/18BTl0m7oKRLsEsrX7TyHZYtaaIqxJaPC/view?usp=sharing)" In *A Companion to Greek and Roman Sexualities*, edited by Thomas K. Hubbard, 388-404. Hoboken.
@@ -260,6 +262,7 @@ Quiz #6 on W 5/1.
 
 <p class="list">Assignments:</p>
 - Ormand 262-268 (2nd ed: 375-382).
+- Complete [this course feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeelvnnKnIBI2T-kzpCwIHyxmNFqEwLLg86DJEtWwrta2HwyA/viewform?usp=sf_link).  
 - \* LaBuff, Jeremy. 2019. "[A Bigger, Sexier Ancient World: Why We Should Care That Other Ancients Screwed.](https://eidolon.pub/a-bigger-sexier-ancient-world-ee4aefbe69cf)" *Eidolon*.
 
 <a href="#top" class="underline">Back to top.</a>
